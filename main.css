@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+/* ===LAYOUT STYLES=== */
+body {
+  width: 100vw;
+  height: 100vh;
+  background: url(assets/freedom.jpg) no-repeat center;
+  background-size: cover;
+}
+.wrapper {
+  display: table;
+  
+}
