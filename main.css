@@ -9,6 +9,18 @@ body {
   background-size: cover;
 }
 .wrapper {
-  display: table;
-  
+  display: block;
+  font-size: 2.5rem;
+  width: 90%;
+  text-align: center;
+  padding-top: 4rem;
+  margin-left: 3rem;
+}
+.quote {
+font-family: 'Signika', sans-serif;
+margin: o auto;
+margin-top: 4rem;
+}
+.author {
+  font-family: 'Crimson Text', serif;
 }
